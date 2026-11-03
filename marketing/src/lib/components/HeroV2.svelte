@@ -12,14 +12,14 @@
 		{
 			title: 'Documentation',
 			subtitle: 'Learn the ropes',
-			href: 'https://github.com/RuneweaverStudios/squad#readme',
+			href: 'https://github.com/austindixson/squad#readme',
 			icon: 'docs',
 			external: true
 		},
 		{
 			title: 'GitHub',
 			subtitle: 'View the source',
-			href: 'https://github.com/RuneweaverStudios/squad',
+			href: 'https://github.com/austindixson/squad',
 			icon: 'github',
 			external: true
 		},

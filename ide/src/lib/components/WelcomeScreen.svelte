@@ -227,7 +227,7 @@
 				</a>
 				&middot;
 				<a
-					href="https://github.com/RuneweaverStudios/squad"
+					href="https://github.com/austindixson/squad"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="underline hover:no-underline transition-colors"

@@ -30,7 +30,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/RuneweaverStudios/squad.git
+git clone https://github.com/austindixson/squad.git
 cd squad
 
 # 2. Run the installer locally
