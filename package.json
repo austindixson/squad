@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RuneweaverStudios/squad.git"
+    "url": "git+https://github.com/austindixson/squad.git"
   },
-  "homepage": "https://github.com/RuneweaverStudios/squad#readme",
+  "homepage": "https://github.com/austindixson/squad#readme",
   "bugs": {
-    "url": "https://github.com/RuneweaverStudios/squad/issues"
+    "url": "https://github.com/austindixson/squad/issues"
   },
   "dependencies": {
     "better-sqlite3": "^11.10.0",

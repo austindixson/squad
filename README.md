@@ -47,7 +47,7 @@ Squad supports all four. Manage 20+ agents hands-on, or connect external sources
 
 ```bash
 # Install (one command)
-curl -sSL https://raw.githubusercontent.com/RuneweaverStudios/squad/master/tools/scripts/bootstrap.sh | bash
+curl -sSL https://raw.githubusercontent.com/austindixson/squad/master/tools/scripts/bootstrap.sh | bash
 
 # Restart shell
 source ~/.bashrc
@@ -60,7 +60,7 @@ Open http://localhost:3333 → Add a project → Create a task → Spawn an agen
 
 **Alternative (developers):**
 ```bash
-git clone https://github.com/RuneweaverStudios/squad.git ~/code/squad
+git clone https://github.com/austindixson/squad.git ~/code/squad
 cd ~/code/squad && ./install.sh
 ```
 
@@ -450,8 +450,8 @@ No. The IDE and tools run on your machine. By default, agents use the LLM provid
 ## Community
 
 - **Discord** — [Join the Squad community](https://discord.gg/AFJf93p7Bx) for help, discussion, and sharing what you've built
-- **Issues** — [Report bugs or request features](https://github.com/RuneweaverStudios/squad/issues)
-- **Discussions** — [GitHub Discussions](https://github.com/RuneweaverStudios/squad/discussions) for questions and ideas
+- **Issues** — [Report bugs or request features](https://github.com/austindixson/squad/issues)
+- **Discussions** — [GitHub Discussions](https://github.com/austindixson/squad/discussions) for questions and ideas
 
 ---
 
@@ -461,7 +461,7 @@ We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guideline
 
 **Quick start for contributors:**
 ```bash
-git clone https://github.com/RuneweaverStudios/squad.git ~/code/squad
+git clone https://github.com/austindixson/squad.git ~/code/squad
 cd ~/code/squad/ide
 npm install && npm run dev
 ```
@@ -502,9 +502,9 @@ MIT - This is my gift to all the great's who haved gifted so much to all of us. 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=RuneweaverStudios/squad&type=timeline&legend=top-left)](https://www.star-history.com/#RuneweaverStudios/squad&type=timeline&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=austindixson/squad&type=timeline&legend=top-left)](https://www.star-history.com/#austindixson/squad&type=timeline&legend=top-left)
 
 ---
 **Squad: Supervise the swarm — or let it run autonomously.**
 
-[Install](#quick-start) | [Docs](./QUICKSTART.md) | [Discord](https://discord.gg/AFJf93p7Bx) | [Issues](https://github.com/RuneweaverStudios/squad/issues)
+[Install](#quick-start) | [Docs](./QUICKSTART.md) | [Discord](https://discord.gg/AFJf93p7Bx) | [Issues](https://github.com/austindixson/squad/issues)
